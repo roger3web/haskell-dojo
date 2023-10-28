@@ -4,8 +4,8 @@ import Data.Char (toUpper)
 import System.Posix.Internals (lstat)
 
 -- Q#01
-_SIZE_ :: Char
-_SIZE_ = 'R'
+_SIZE_ :: Int
+_SIZE_ = '3'
 
 
 -- Q#02
