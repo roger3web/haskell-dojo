@@ -4,11 +4,11 @@ import Data.Char (toUpper)
 import System.Posix.Internals (lstat)
 
 -- Q#01
-_SIZE_ :: Int
-_SIZE_ = 3
+_SIZE_ :: Char
+_SIZE_ = 'R'
+
 
 -- Q#02
-
 _DISPLAY_LOGO_ = undefined
 
 -- Q#03
